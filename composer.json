@@ -16,7 +16,7 @@
     "ext-libxml": "*",
     "ext-dom": "*",
     "ext-json": "*",
-    "guzzlehttp/guzzle": "~6.0|^7.4"
+    "guzzlehttp/guzzle": "~6.0|^7.4.0"
   },
   "repositories": [
     {
