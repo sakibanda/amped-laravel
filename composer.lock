@@ -64,7 +64,7 @@
             "description": "WordPress plugin for adding AMP support.",
             "homepage": "https://github.com/ampproject/amp-wp",
             "support": {
-                "source": "https://github.com/ArroWsGM/amp-wp/tree/1.4.4",
+                "source": "https://github.com/ArroWsGM/amp-wp/tree/2.1.4",
                 "issues": "https://github.com/ArroWsGM/amp-wp/issues"
             },
             "time": "2021-02-11T16:41:00+00:00"
