@@ -1,5 +1,5 @@
 {
-  "name": "arrowsgm/amped-laravel",
+  "name": "sakibanda/amped-laravel",
   "description": "An HTML to AMP converter for Laravel based on amp-wp Wordpress plugin",
   "type": "library",
   "license": "GPL-2.0-or-later",
